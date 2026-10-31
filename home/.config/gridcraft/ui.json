@@ -1,0 +1,14 @@
+{
+  "dark": true,
+  "systemTheme": false,
+  "ribbonTab": "Home",
+  "ribbonCollapsed": false,
+  "formulaBarExpanded": false,
+  "statusBar": true,
+  "animations": true,
+  "autocomplete": true,
+  "autosave": false,
+  "recent": [],
+  "language": "en",
+  "interfaceScale": 100
+}

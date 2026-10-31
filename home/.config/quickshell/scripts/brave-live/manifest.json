@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Impasto blank-tab colours",
+  "version": "1.0.0",
+  "description": "Refreshes native blank tabs when the Impasto palette changes. Normal websites are untouched.",
+  "permissions": [
+    "tabs",
+    "nativeMessaging"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqcGpsP3HccWxbX7YeiDzffFVcdqws1H98cnCGJ67QyF7sUrLw3Y9MeaW7y0OAC0gh2edrN9qkJo2qXX+X2KOkf8bJTzrrMd+s4jaJWr4vnDZKPbqv8ZON9sNEzdhkyQgpo6YhzEswpYLLaRf6iNij93P/2Jl0vV71yZPIbPflSFwbLLfWUWPD67RcPFeYs1PRoMoFE/qtpDJG2N5bD/suPsqbcU0hV9mBtPsrqFLDY9e3eEa1GVLEOxhfYASCXpCPcWG8eLIUI6KcFZ07tVjIyaW54y9X6hbDjgRyWw9bBt5ER7UNmFi32TcamCzhqH3MMKWAPJo6AgKQ/0DcomApQIDAQAB"
+}

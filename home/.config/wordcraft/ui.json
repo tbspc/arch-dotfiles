@@ -1,0 +1,152 @@
+{
+  "tab": "Home",
+  "backstage": false,
+  "backstagePage": "home",
+  "ribbonCollapsed": false,
+  "quickAccessToolbar": true,
+  "recent": [
+    "/home/tbs/Projects/School/Science/Document1.docx",
+    "/home/tbs/Projects/School/Math/PSMT Draft (1).docx",
+    "/home/tbs/Projects/School/Geography/Notes.docx",
+    "/home/tbs/Downloads/Year9WWIHistoryAssignmentT42026.docx",
+    "/home/tbs/Documents/PSMT Draft.docx",
+    "/home/tbs/Documents/School/Math/PSMT Draft (1).docx",
+    "/home/tbs/Documents/School/Geography/Notes.docx",
+    "/home/tbs/Documents/Codex/2026-10-24/change-my-hyprland-arch-linux-lock/outputs/completed-latest-fixes.md",
+    "/home/tbs/Documents/School/Science/Document1.docx"
+  ],
+  "recentSymbols": [],
+  "recentColors": [],
+  "recentFonts": [
+    "Times New Roman"
+  ],
+  "theme": "dark",
+  "uiScale": 125,
+  "animations": "system",
+  "navTab": "headings",
+  "navPane": false,
+  "showDiscord": true,
+  "author": "WordCraft User",
+  "window": {
+    "position": [
+      14.4,
+      44.8
+    ],
+    "width": 760.0,
+    "height": 480.0,
+    "maximized": false,
+    "monitor": [
+      1536.0,
+      960.0
+    ]
+  },
+  "language": "auto",
+  "editing": {
+    "countNotes": true,
+    "markup": {
+      "comments": true,
+      "ink": true,
+      "insertionsDeletions": true,
+      "formatting": true,
+      "balloons": "commentsAndFormatting",
+      "commentDisplay": "margin",
+      "insertMark": "underline",
+      "insertColor": null,
+      "deleteMark": "strikethrough",
+      "deleteColor": null,
+      "changedLines": "outside",
+      "changedLinesColor": null,
+      "trackFormatting": true,
+      "moveFromMark": "doubleStrikethrough",
+      "moveFromColor": [
+        26,
+        127,
+        55
+      ],
+      "moveToMark": "doubleUnderline",
+      "moveToColor": [
+        26,
+        127,
+        55
+      ]
+    },
+    "printMarkup": false,
+    "detectLanguage": true,
+    "defaultLanguage": null,
+    "typingReplacesSelection": true,
+    "insertKeyOvertype": false,
+    "overtype": false,
+    "measurementUnits": null,
+    "region": null,
+    "dictionariesFolder": null,
+    "userTemplatesFolder": null,
+    "marks": {
+      "tabs": false,
+      "spaces": false,
+      "paragraphs": false,
+      "hidden": false
+    },
+    "markGrammar": true,
+    "checkSpelling": true,
+    "ignoreUppercase": true,
+    "ignoreNumbers": true,
+    "ignoreInternet": true,
+    "autocorrect": {
+      "enabled": true,
+      "replaceText": true,
+      "twoInitialCaps": true,
+      "capSentences": true,
+      "capCells": true,
+      "capDays": true,
+      "capsLock": true,
+      "smartQuotes": true,
+      "fractions": true,
+      "ordinals": true,
+      "dashes": true,
+      "links": true,
+      "bullets": true,
+      "numbering": true,
+      "borderLines": true,
+      "entries": [],
+      "removed": [],
+      "exceptions": [
+        "equation."
+      ],
+      "exceptionsRemoved": [],
+      "initialCapsExceptions": [],
+      "autoAddFirstLetter": true,
+      "autoAddInitialCaps": true
+    }
+  },
+  "readAloudRate": 1.0,
+  "readAloudSkipCitations": true,
+  "keytipsEnabled": true,
+  "darkPage": false,
+  "checkSpelling": true,
+  "caretAnimation": true,
+  "keyboard": {
+    "assigned": {},
+    "removed": []
+  },
+  "ribbon": {
+    "qat": [
+      "file.save",
+      "edit.undo",
+      "edit.redo",
+      "file.new",
+      "file.open"
+    ]
+  },
+  "captionLabels": [],
+  "lastCaptionLabel": "",
+  "inkPens": [],
+  "initials": "",
+  "optionsPane": "general",
+  "recentCount": 12,
+  "miniToolbar": true,
+  "alignmentGuides": true,
+  "startScreen": true,
+  "printBackgrounds": false,
+  "updateFieldsBeforePrint": false,
+  "dictionary": []
+}

@@ -1,0 +1,82 @@
+/* Written by theme_manager.py on every palette push. */
+/* Anything put here by hand is lost on the next one. */
+
+@define-color window_bg_color #392a20;
+@define-color window_fg_color #eef2f7;
+@define-color view_bg_color #392a20;
+@define-color view_fg_color #eef2f7;
+@define-color headerbar_bg_color #44362c;
+@define-color headerbar_fg_color #eef2f7;
+@define-color headerbar_border_color #5e504b;
+@define-color headerbar_backdrop_color #392a20;
+@define-color headerbar_shade_color #5e504b;
+@define-color popover_bg_color #44362c;
+@define-color popover_fg_color #eef2f7;
+@define-color card_bg_color #44362c;
+@define-color card_fg_color #eef2f7;
+@define-color dialog_bg_color #44362c;
+@define-color dialog_fg_color #eef2f7;
+@define-color sidebar_bg_color #44362c;
+@define-color sidebar_fg_color #eef2f7;
+@define-color sidebar_border_color #5e504b;
+@define-color sidebar_backdrop_color #392a20;
+@define-color secondary_sidebar_bg_color #44362c;
+@define-color secondary_sidebar_fg_color #eef2f7;
+@define-color accent_color #cc8340;
+@define-color accent_bg_color #CB813C;
+@define-color accent_fg_color #11111b;
+@define-color destructive_color #f38ba8;
+@define-color destructive_bg_color #f38ba8;
+@define-color destructive_fg_color #11111b;
+@define-color success_color #a6e3a1;
+@define-color success_bg_color #a6e3a1;
+@define-color success_fg_color #11111b;
+@define-color warning_color #f9e2af;
+@define-color warning_bg_color #f9e2af;
+@define-color warning_fg_color #11111b;
+@define-color error_color #f38ba8;
+@define-color error_bg_color #f38ba8;
+@define-color error_fg_color #11111b;
+@define-color borders #5e504b;
+
+@define-color window_fg_color_muted #94a1b2;
+
+:root {
+  --window-bg-color: #392a20;
+  --window-fg-color: #eef2f7;
+  --view-bg-color: #392a20;
+  --view-fg-color: #eef2f7;
+  --headerbar-bg-color: #44362c;
+  --headerbar-fg-color: #eef2f7;
+  --headerbar-border-color: #5e504b;
+  --headerbar-backdrop-color: #392a20;
+  --headerbar-shade-color: #5e504b;
+  --popover-bg-color: #44362c;
+  --popover-fg-color: #eef2f7;
+  --card-bg-color: #44362c;
+  --card-fg-color: #eef2f7;
+  --dialog-bg-color: #44362c;
+  --dialog-fg-color: #eef2f7;
+  --sidebar-bg-color: #44362c;
+  --sidebar-fg-color: #eef2f7;
+  --sidebar-border-color: #5e504b;
+  --sidebar-backdrop-color: #392a20;
+  --secondary-sidebar-bg-color: #44362c;
+  --secondary-sidebar-fg-color: #eef2f7;
+  --accent-color: #cc8340;
+  --accent-bg-color: #CB813C;
+  --accent-fg-color: #11111b;
+  --destructive-color: #f38ba8;
+  --destructive-bg-color: #f38ba8;
+  --destructive-fg-color: #11111b;
+  --success-color: #a6e3a1;
+  --success-bg-color: #a6e3a1;
+  --success-fg-color: #11111b;
+  --warning-color: #f9e2af;
+  --warning-bg-color: #f9e2af;
+  --warning-fg-color: #11111b;
+  --error-color: #f38ba8;
+  --error-bg-color: #f38ba8;
+  --error-fg-color: #11111b;
+  --borders: #5e504b;
+}

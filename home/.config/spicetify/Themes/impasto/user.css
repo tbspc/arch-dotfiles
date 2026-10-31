@@ -1,0 +1,3 @@
+/* Impasto: keep Spotify surfaces and controls on the adaptive palette. */
+:root {--background-base:var(--spice-main);--background-highlight:var(--spice-highlight);--background-elevated-base:var(--spice-main-elevated);--text-base:var(--spice-text);--text-subdued:var(--spice-subtext);--essential-bright-accent:var(--spice-button);}
+[data-testid="now-playing-bar"], .Root__nav-bar {background:var(--spice-player)!important;}

@@ -1,0 +1,19 @@
+# Portable desktop configs only: keep auth, user state, generated backups out.
+.git/
+**/.cache/
+**/__pycache__/
+**/logs/
+**/*.log
+**/*.log.*
+home/.config/quickshell/backups/
+home/.config/fish/fish_variables
+home/.config/wordcraft/control-key.local-*
+home/.local/share/impasto/camera/sample.jpg
+**/*.pem
+**/*.key
+**/id_rsa
+**/id_ed25519
+**/*.bak
+**/*.bak-*
+# Never commit local staging metadata containing sensitive scans
+reports/private/

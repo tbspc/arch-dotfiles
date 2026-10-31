@@ -1,0 +1,61 @@
+{
+  "brightness": "dark",
+  "tab": "View",
+  "ribbonCollapsed": false,
+  "view": "normal",
+  "notes": true,
+  "notesHeight": 76.0,
+  "thumbsWidth": 233.5625,
+  "pane": null,
+  "paneWidth": 300.0,
+  "ruler": false,
+  "gridlines": false,
+  "handoutPerPage": 6,
+  "guides": false,
+  "smartGuides": true,
+  "zoom": null,
+  "sorterZoom": 1.0,
+  "recent": [],
+  "presenterView": true,
+  "uiScale": 0.8,
+  "formatTab": "fill",
+  "smartartRow": 0,
+  "smartartFocus": null,
+  "smartartDrafts": [
+    0,
+    []
+  ],
+  "grayscale": true,
+  "qat": [
+    {
+      "id": "app.home",
+      "label": "Home",
+      "icon": "home"
+    },
+    {
+      "id": "file.save",
+      "label": "Save",
+      "icon": "save"
+    },
+    {
+      "id": "app.exportDialog",
+      "label": "Export",
+      "icon": "export"
+    },
+    {
+      "id": "edit.undo",
+      "label": "Undo",
+      "icon": "undo"
+    },
+    {
+      "id": "edit.redo",
+      "label": "Redo",
+      "icon": "redo"
+    },
+    {
+      "id": "show.fromStart",
+      "label": "Start from Beginning",
+      "icon": "play-from-start"
+    }
+  ]
+}

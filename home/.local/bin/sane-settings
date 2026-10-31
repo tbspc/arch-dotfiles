@@ -1,0 +1,10 @@
+#!/bin/sh
+app_config="${XDG_CONFIG_HOME:-$HOME/.config}/sane-settings"
+if command -v hyprctl >/dev/null 2>&1; then
+    hyprctl eval 'if not _G.saneSettingsRule then _G.saneSettingsRule=hl.window_rule({name="sane-settings",match={class="^(org\\.quickshell)$",title="^Sane Settings$"},float=true,center=true}) end' >/dev/null 2>&1
+fi
+if quickshell ipc -p "$app_config" call studio show >/dev/null 2>&1; then
+    hyprctl eval 'for _,w in ipairs(hl.get_windows()) do if w.class=="org.quickshell" and w.title=="Sane Settings" then hl.dispatch(hl.dsp.focus({window=w})) end end' >/dev/null 2>&1
+    exit 0
+fi
+exec quickshell -p "$app_config" "$@"

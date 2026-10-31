@@ -1,0 +1,19 @@
+{
+  "snapToGrid": true,
+  "gridSpacing": 6.0,
+  "smartGuides": true,
+  "duplicateOffset": 12.0,
+  "autocorrect": true,
+  "smartQuotes": true,
+  "acTwoInitials": true,
+  "acSentenceCaps": true,
+  "acDays": true,
+  "acCapsLock": true,
+  "acFractions": true,
+  "acOrdinals": true,
+  "acEntries": [],
+  "acRemoved": [],
+  "author": "Presenter",
+  "undoLimit": 500,
+  "recoveryMinutes": 1.0
+}

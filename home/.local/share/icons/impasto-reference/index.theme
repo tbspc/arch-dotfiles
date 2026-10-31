@@ -1,0 +1,11 @@
+[Icon Theme]
+Name=Impasto Reference
+Inherits=impasto,Papirus-Dark,Adwaita,hicolor
+Directories=scalable/places
+
+[scalable/places]
+Size=16
+Type=Scalable
+MinSize=8
+MaxSize=512
+Context=Places

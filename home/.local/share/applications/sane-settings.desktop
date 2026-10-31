@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Sane Settings
+GenericName=Desktop Settings
+Comment=Separate settings app inspired by the SaneAspect reference
+Exec=/home/tbs/.local/bin/sane-settings
+Icon=preferences-system
+Terminal=false
+Categories=Settings;DesktopSettings;
+Keywords=Hyprland;SaneAspect;Appearance;Bar;Island;Theme;
+StartupNotify=false
